@@ -5,9 +5,9 @@ import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
   id: 233224566766,
-  name: 'Subscription',
+  name: 'Yulink Subscription',
   version: 0,
-  author: 'author',
+  author: 'yulink',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/gkd-kit/subscription-template',
   categories,
